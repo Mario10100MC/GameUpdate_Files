@@ -1,2 +1,2 @@
-<Version: Beta Test 1.0>
+<Version: 1.0>
 <End Of Update>
