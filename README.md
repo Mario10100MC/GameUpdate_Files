@@ -1,4 +1,11 @@
-# GameUpdate_Files
-The Game Update Files Is A Updating Files For A Specific Game
-This Data Is Only Read By An Special Script From
+Welcome To GameUpdate_Files!
+This Is For:
+Game Updater For An Existing Game
+This Wasn't Posible Without A Scipt Called Auto-Update, By: Sumrndm
+Script Link:
 http://sumrndm.site/auto-updater/ 
+The Master.txt can't be edited wihout a permision to the original contributor, Nevernone the less if incorrecly inserted
+an Wrong Code Can Cause Data Corruption To Users
+
+                                                                                      markandrewjamito4,
+                                                                                      The Original Contributor
