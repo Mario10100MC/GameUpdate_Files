@@ -1,5 +1,5 @@
-Welcome To GameUpdate_Files!
-This Is For:
+|Welcome To GameUpdate_Files!|
+|This Is For:                |
 Game Updater For An Existing Game
 This Wasn't Posible Without A Scipt Called Auto-Update, By: Sumrndm
 Script Link:
